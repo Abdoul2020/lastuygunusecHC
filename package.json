@@ -1,0 +1,91 @@
+{
+    "name": "uygunusec",
+    "version": "0.1.0",
+    "private": true,
+    "proxy": "http://uygunusec.com",
+    "homepage": "http://uygunusec.com/controlza/",
+    "dependencies": {
+        "@date-io/date-fns": "^1.3.13",
+        "@emotion/react": "^11.10.5",
+        "@emotion/styled": "^11.10.5",
+        "@material-ui/core": "^4.12.4",
+        "@material-ui/icons": "^4.11.3",
+        "@material-ui/lab": "^4.0.0-alpha.61",
+        "@material-ui/styles": "^4.11.5",
+        "@mui/icons-material": "^5.11.0",
+        "@mui/lab": "^5.0.0-alpha.115",
+        "@mui/material": "^5.11.4",
+        "@mui/x-date-pickers": "^5.0.14",
+        "@reduxjs/toolkit": "^1.9.1",
+        "@testing-library/jest-dom": "^5.14.1",
+        "@testing-library/react": "^13.0.0",
+        "@testing-library/user-event": "^13.2.1",
+        "axios": "^1.2.3",
+        "date-fns": "^2.0.0-beta.5",
+        "dayjs": "^1.11.7",
+        "firebase": "^9.15.0",
+        "formik": "^2.2.9",
+        "framer-motion": "^9.1.6",
+        "gsap": "^3.11.4",
+        "jquery": "^3.6.3",
+        "jwt-decode": "^3.1.2",
+        "locomotive-scroll": "^4.1.4",
+        "material-ui": "^1.0.0-beta.47",
+        "material-ui-dropzone": "^3.5.0",
+        "primeicons": "^6.0.1",
+        "primereact": "^9.1.1",
+        "react": "^18.1.0",
+        "react-alice-carousel": "^2.7.0",
+        "react-dom": "^18.1.0",
+        "react-gsap": "^3.2.1",
+        "react-icons": "^4.7.1",
+        "react-input-mask": "^2.0.4",
+        "react-leaf-carousel": "^3.0.0",
+        "react-lottie-player": "^1.5.4",
+        "react-phone-input-2": "^2.15.1",
+        "react-redux": "^8.0.5",
+        "react-router-dom": "^6.6.2",
+        "react-scripts": "5.0.1",
+        "react-slick": "^0.29.0",
+        "react-spinners": "^0.13.8",
+        "react-text-mask": "^5.5.0",
+        "react-toastify": "^9.1.1",
+        "react-typed": "^1.2.0",
+        "redux": "^4.2.0",
+        "scrollmagic": "^2.0.8",
+        "styled-components": "^5.3.6",
+        "swiper": "^9.0.2",
+        "universal-cookie": "^4.0.4",
+        "web-vitals": "^2.1.0",
+        "yup": "^0.32.11"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.4",
+        "postcss": "^8.4.12",
+        "tailwindcss": "^3.0.24"
+    }
+}
